@@ -3,7 +3,8 @@
 一个强大的Python脚本，用于从OpenAPI/Swagger文档中提取API接口信息，并生成美观的HTML页面和CSV表格。
 
 在遇到/docs、/v3/api-docs、/v2/api-docs、/v2/swagger.json等openAPI接口文档路径时，api json信息堆在一起无法处理。
-<img width="1226" height="1060" alt="image" src="https://github.com/user-attachments/assets/9edae0d9-5f92-4f37-b504-d5937dd260a3" />
+<img width="1060" height="1112" alt="image" src="https://github.com/user-attachments/assets/7d19ed98-a87a-4d20-abac-9b0586334767" />
+
 
 使用此工具可将文档中的接口全部提取出来并进行请求，输出为接口列表。
 <img width="2498" height="1470" alt="image" src="https://github.com/user-attachments/assets/6d7c102f-4cab-489e-a5c4-529df7167d20" />
